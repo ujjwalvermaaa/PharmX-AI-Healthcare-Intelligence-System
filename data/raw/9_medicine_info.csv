@@ -1,0 +1,101 @@
+medicine_name,category,primary_disease,dosage_form,dosage_strength,side_effects,average_price,manufacturer,prescription_required
+Paracetamol,Painkiller,Fever,Tablet,250mg,Nausea,101,Mankind,Yes
+Paracetamol,Painkiller,Fever,Tablet,100mg,Fatigue,55,Mankind,Yes
+Paracetamol,Painkiller,Fever,Syrup,100mg,Dizziness,83,Cipla,Yes
+Paracetamol,Painkiller,Fever,Tablet,5mg,None,73,Cipla,Yes
+Paracetamol,Painkiller,Fever,Syrup,5mg,Nausea,10,Lupin,No
+Ibuprofen,Painkiller,Pain,Tablet,1g,Dizziness,104,Dr Reddy,Yes
+Ibuprofen,Painkiller,Pain,Tablet,250mg,None,125,Mankind,Yes
+Ibuprofen,Painkiller,Pain,Tablet,10mg,None,75,Sun Pharma,No
+Ibuprofen,Painkiller,Pain,Tablet,10mg,Dizziness,55,Lupin,Yes
+Ibuprofen,Painkiller,Pain,Tablet,250mg,Fatigue,68,Lupin,Yes
+Aspirin,Painkiller,Heart Disease,Tablet,100mg,Dizziness,32,Lupin,Yes
+Aspirin,Painkiller,Heart Disease,Tablet,1g,Dizziness,63,Cipla,Yes
+Aspirin,Painkiller,Heart Disease,Tablet,500mg,Fatigue,72,Cipla,No
+Aspirin,Painkiller,Heart Disease,Tablet,1g,Fatigue,128,Lupin,Yes
+Aspirin,Painkiller,Heart Disease,Tablet,500mg,None,90,Cipla,No
+Metformin,Antidiabetic,Diabetes,Tablet,250mg,None,145,Mankind,Yes
+Metformin,Antidiabetic,Diabetes,Tablet,500mg,Nausea,78,Sun Pharma,Yes
+Metformin,Antidiabetic,Diabetes,Tablet,100mg,Fatigue,68,Sun Pharma,No
+Metformin,Antidiabetic,Diabetes,Tablet,100mg,Nausea,107,Cipla,Yes
+Metformin,Antidiabetic,Diabetes,Tablet,5mg,None,86,Lupin,Yes
+Insulin,Antidiabetic,Diabetes,Injection,1g,None,118,Dr Reddy,Yes
+Insulin,Antidiabetic,Diabetes,Injection,100mg,Nausea,149,Dr Reddy,No
+Insulin,Antidiabetic,Diabetes,Injection,10mg,Fatigue,78,Sun Pharma,No
+Insulin,Antidiabetic,Diabetes,Injection,10mg,Dizziness,142,Lupin,Yes
+Insulin,Antidiabetic,Diabetes,Injection,5mg,None,151,Mankind,Yes
+Amoxicillin,Antibiotic,Pneumonia,Capsule,100mg,Nausea,103,Lupin,No
+Amoxicillin,Antibiotic,Pneumonia,Capsule,100mg,Fatigue,100,Lupin,No
+Amoxicillin,Antibiotic,Pneumonia,Tablet,250mg,Dizziness,126,Dr Reddy,Yes
+Amoxicillin,Antibiotic,Pneumonia,Capsule,250mg,Nausea,51,Sun Pharma,Yes
+Amoxicillin,Antibiotic,Pneumonia,Capsule,250mg,Nausea,66,Sun Pharma,Yes
+Azithromycin,Antibiotic,Pneumonia,Tablet,1g,None,27,Sun Pharma,Yes
+Azithromycin,Antibiotic,Pneumonia,Tablet,250mg,None,197,Dr Reddy,Yes
+Azithromycin,Antibiotic,Pneumonia,Tablet,5mg,None,90,Lupin,Yes
+Azithromycin,Antibiotic,Pneumonia,Tablet,10mg,Fatigue,77,Sun Pharma,Yes
+Azithromycin,Antibiotic,Pneumonia,Tablet,5mg,Fatigue,82,Mankind,Yes
+Amlodipine,Antihypertensive,Hypertension,Tablet,5mg,Fatigue,178,Cipla,Yes
+Amlodipine,Antihypertensive,Hypertension,Tablet,10mg,None,166,Dr Reddy,Yes
+Amlodipine,Antihypertensive,Hypertension,Tablet,5mg,Fatigue,129,Mankind,Yes
+Amlodipine,Antihypertensive,Hypertension,Tablet,1g,Dizziness,44,Sun Pharma,Yes
+Amlodipine,Antihypertensive,Hypertension,Tablet,100mg,Dizziness,83,Mankind,No
+Losartan,Antihypertensive,Hypertension,Tablet,250mg,Fatigue,108,Dr Reddy,Yes
+Losartan,Antihypertensive,Hypertension,Tablet,250mg,Nausea,41,Sun Pharma,Yes
+Losartan,Antihypertensive,Hypertension,Tablet,10mg,None,64,Sun Pharma,Yes
+Losartan,Antihypertensive,Hypertension,Tablet,1g,Dizziness,44,Dr Reddy,Yes
+Losartan,Antihypertensive,Hypertension,Tablet,10mg,None,134,Cipla,No
+Atorvastatin,Cardiac,Heart Disease,Tablet,1g,None,181,Mankind,No
+Atorvastatin,Cardiac,Heart Disease,Tablet,100mg,Fatigue,30,Dr Reddy,No
+Atorvastatin,Cardiac,Heart Disease,Tablet,1g,None,27,Sun Pharma,Yes
+Atorvastatin,Cardiac,Heart Disease,Tablet,100mg,Nausea,91,Mankind,Yes
+Atorvastatin,Cardiac,Heart Disease,Tablet,1g,Dizziness,51,Cipla,Yes
+Salbutamol,Respiratory,Asthma,Inhaler,500mg,Nausea,26,Dr Reddy,Yes
+Salbutamol,Respiratory,Asthma,Inhaler,5mg,None,78,Lupin,Yes
+Salbutamol,Respiratory,Asthma,Inhaler,1g,Fatigue,101,Mankind,Yes
+Salbutamol,Respiratory,Asthma,Inhaler,100mg,Fatigue,20,Cipla,Yes
+Salbutamol,Respiratory,Asthma,Inhaler,5mg,None,114,Lupin,No
+Montelukast,Respiratory,Asthma,Tablet,100mg,None,95,Dr Reddy,No
+Montelukast,Respiratory,Asthma,Tablet,5mg,None,71,Sun Pharma,No
+Montelukast,Respiratory,Asthma,Tablet,500mg,Nausea,108,Mankind,Yes
+Montelukast,Respiratory,Asthma,Tablet,250mg,Nausea,71,Sun Pharma,Yes
+Montelukast,Respiratory,Asthma,Tablet,10mg,Nausea,60,Cipla,No
+Cefixime,Antibiotic,Tuberculosis,Tablet,10mg,Fatigue,44,Cipla,Yes
+Cefixime,Antibiotic,Tuberculosis,Tablet,10mg,Dizziness,86,Cipla,No
+Cefixime,Antibiotic,Tuberculosis,Tablet,5mg,Nausea,41,Mankind,Yes
+Cefixime,Antibiotic,Tuberculosis,Tablet,10mg,Fatigue,135,Cipla,No
+Cefixime,Antibiotic,Tuberculosis,Tablet,500mg,None,100,Mankind,Yes
+Omeprazole,Gastro,Liver Disease,Capsule,1g,None,234,Lupin,No
+Omeprazole,Gastro,Liver Disease,Capsule,250mg,Dizziness,86,Dr Reddy,Yes
+Omeprazole,Gastro,Liver Disease,Capsule,1g,Nausea,45,Cipla,No
+Omeprazole,Gastro,Liver Disease,Capsule,5mg,None,10,Mankind,Yes
+Omeprazole,Gastro,Liver Disease,Capsule,250mg,Nausea,97,Lupin,No
+Pantoprazole,Gastro,Liver Disease,Tablet,250mg,Dizziness,165,Lupin,Yes
+Pantoprazole,Gastro,Liver Disease,Tablet,10mg,None,105,Cipla,Yes
+Pantoprazole,Gastro,Liver Disease,Tablet,5mg,None,62,Cipla,Yes
+Pantoprazole,Gastro,Liver Disease,Tablet,500mg,Dizziness,13,Sun Pharma,Yes
+Pantoprazole,Gastro,Liver Disease,Tablet,5mg,Dizziness,75,Sun Pharma,Yes
+Doxycycline,Antibiotic,Tuberculosis,Capsule,500mg,Nausea,113,Mankind,No
+Doxycycline,Antibiotic,Tuberculosis,Capsule,500mg,Dizziness,32,Sun Pharma,Yes
+Doxycycline,Antibiotic,Tuberculosis,Capsule,250mg,Nausea,89,Sun Pharma,Yes
+Doxycycline,Antibiotic,Tuberculosis,Capsule,1g,None,107,Lupin,Yes
+Doxycycline,Antibiotic,Tuberculosis,Capsule,1g,Nausea,103,Cipla,Yes
+Hydroxychloroquine,Antiviral,Dengue,Tablet,500mg,None,74,Cipla,No
+Hydroxychloroquine,Antiviral,Dengue,Tablet,5mg,None,61,Mankind,Yes
+Hydroxychloroquine,Antiviral,Dengue,Tablet,10mg,Nausea,93,Lupin,Yes
+Hydroxychloroquine,Antiviral,Dengue,Tablet,10mg,Fatigue,117,Lupin,Yes
+Hydroxychloroquine,Antiviral,Dengue,Tablet,500mg,Fatigue,97,Sun Pharma,No
+Vitamin D,Vitamin,General Deficiency,Capsule,100mg,None,125,Mankind,Yes
+Vitamin D,Vitamin,General Deficiency,Tablet,1g,Dizziness,84,Sun Pharma,Yes
+Vitamin D,Vitamin,General Deficiency,Tablet,10mg,Dizziness,62,Cipla,Yes
+Vitamin D,Vitamin,General Deficiency,Tablet,5mg,Fatigue,94,Mankind,No
+Vitamin D,Vitamin,General Deficiency,Capsule,250mg,Nausea,52,Mankind,No
+Zinc,Vitamin,General Deficiency,Tablet,250mg,Dizziness,147,Dr Reddy,No
+Zinc,Vitamin,General Deficiency,Tablet,250mg,Dizziness,10,Sun Pharma,No
+Zinc,Vitamin,General Deficiency,Tablet,1g,None,71,Mankind,No
+Zinc,Vitamin,General Deficiency,Tablet,100mg,Nausea,123,Sun Pharma,Yes
+Zinc,Vitamin,General Deficiency,Tablet,250mg,None,18,Dr Reddy,Yes
+ORS,Rehydration,Dengue,Powder,250mg,Nausea,46,Sun Pharma,No
+ORS,Rehydration,Dengue,Powder,5mg,Fatigue,84,Lupin,Yes
+ORS,Rehydration,Dengue,Powder,500mg,Nausea,90,Dr Reddy,Yes
+ORS,Rehydration,Dengue,Powder,250mg,Fatigue,66,Mankind,Yes
+ORS,Rehydration,Dengue,Powder,1g,Fatigue,89,Cipla,Yes
